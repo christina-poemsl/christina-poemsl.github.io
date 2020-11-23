@@ -1,0 +1,50 @@
+#-------------------------------
+# General Site Settings
+
+menu:
+- {name: 'Über mich', url: 'pages/ueber_mich.html'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Portfolio von Christina Pömsl'
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-analytics-ua: ''
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: ''
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: 'Sammlung 1', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'Sammlung 2', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'Sammlung 3', folder: 'proj-3', file: 'projects/proj-3.html'}
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'envelope', link: 'mailto:chripoemsl@gmx.de'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

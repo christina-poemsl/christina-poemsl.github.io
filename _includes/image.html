@@ -1,0 +1,12 @@
+<div class="image-container">
+  <a href="{{ site.github.url }}/assets/img/{{ include.image }}">
+    <img src="{{ site.github.url }}/assets/img/{{ include.image }}" alt="Avatar" class="image">
+    <div class="overlay">
+      <div class="text">
+        {% if include.text %}
+          {{ include.text }}
+        {% endif %}
+      </div>
+    </div>
+  </a>
+</div>
