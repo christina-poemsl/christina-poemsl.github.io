@@ -2,7 +2,7 @@
 
 markdown: kramdown
 permalink: none
-plugins:             [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+plugins: [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 port: 4000
 
@@ -12,6 +12,6 @@ sass:
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 
-title:		           "Christina Pömsl"
-description:	       "Powered by Jekyll and GitHub Pages"
-author:              "Christine Pömsl"
+title: "Christina Pömsl"
+description: "Powered by Jekyll and GitHub Pages"
+author: "Christina Pömsl"

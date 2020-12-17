@@ -2,7 +2,9 @@
 # General Site Settings
 
 menu:
-- {name: 'Über mich', url: 'pages/ueber_mich.html'}
+- {name: 'Malerei', url: ''}
+- {name: 'Über', url: 'pages/ueber_mich.html'}
+- {name: 'Kontakt', url: 'pages/kontakt.html'}
 
 #-------------------------------
 # SEO Section
@@ -10,9 +12,9 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Portfolio von Christina Pömsl'
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
+  description: 'Christina Pömsl'
+  rel-author: ''
+  rel-publisher: ''
 
 #-------------------------------
 # Google Analytics Section
