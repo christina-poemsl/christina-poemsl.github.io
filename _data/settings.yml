@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Malerei', url: ''}
-- {name: 'Über', url: 'pages/ueber_mich.html'}
+- {name: 'Text', url: 'pages/ueber_mich.html'}
 - {name: 'Kontakt', url: 'pages/kontakt.html'}
 
 #-------------------------------
