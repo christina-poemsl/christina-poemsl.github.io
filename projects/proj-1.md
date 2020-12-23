@@ -10,5 +10,4 @@ title: 'Sammlung 1'
 <p align="center">Winterlandschaft rot, 2017, 100x120 cm</p>
 
 {% include image.html image="projects/proj-1/am_see.jpg" %}
-
 <p align="center">Am See, 2017, 70x100 cm</p>
