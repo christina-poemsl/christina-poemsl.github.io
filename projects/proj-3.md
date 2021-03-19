@@ -1,16 +1,20 @@
 ---
 layout: post
-title: 'Sammlung 3'
+title: 'Sammlung 2'
 ---
 
-{% include image.html image="projects/proj-3/ghana_trotro.jpg" %}
-<p align="center">Ghana, am Trotro, 2017, 100x140 cm</p>
+{% include image.html image="projects/proj-3/1_2020_Wartende_60x60cm.jpg" %}
+<p align="center">2020, Wartende, 60x60cm</p>
 
-{% include image.html image="projects/proj-3/ghana_wald.jpg" %}
-<p align="center">Ghana, im Wald, 2017, 100x120 cm</p>
 
-{% include image.html image="projects/proj-3/wartende.jpg" %}
-<p align="center">Wartende, 2020, 60x60 cm</p>
+{% include image.html image="projects/proj-3/2_2020_Wartende_60x60cm.jpg" %}
+<p align="center">2020, Wartende, 60x60cm</p>
 
-{% include image.html image="projects/proj-3/in_afrika.jpg" %}
-<p align="center">In Afrika, 2020, 60x60 cm</p>
+
+{% include image.html image="projects/proj-3/3_2017_Ghanareise_100x140cm.jpg" %}
+<p align="center">2017, Ghanareise, 100x140cm</p>
+
+
+{% include image.html image="projects/proj-3/4_2017_Ghanareise_100x120cm.jpg" %}
+<p align="center">2017, Ghanareise, 100x120cm</p>
+

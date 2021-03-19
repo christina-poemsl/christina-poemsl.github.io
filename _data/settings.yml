@@ -39,9 +39,11 @@ disqus:
 # Work Section
 
 projects:
-- {name: 'Sammlung 1', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Sammlung 2', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Sammlung 3', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'Upcycling', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'Sammlung 1', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'Sammlung 2', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'Sammlung 3', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'Sammlung 4', folder: 'proj-5', file: 'projects/proj-5.html'}
 
 #-------------------------------
 # Contact Section
